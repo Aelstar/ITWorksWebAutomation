@@ -14,14 +14,12 @@
     <classes>
  <class name="testCases.ExtentReportsTest"/>
 
-<!-- 		<class name="testCases.LoginPageTest"/>
+ 		<class name="testCases.LoginPageTest"/>
  		<class name="testCases.DashboardPageTest"/> 
 
 		<class name="testCases.CoursesPageTest"/>
--->
 
 
-<class name="testCases.MobilePageTest"/>
 
     </classes>
 
