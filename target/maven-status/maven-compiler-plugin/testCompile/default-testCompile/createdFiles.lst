@@ -1,0 +1,11 @@
+testCases\BalancePageTest.class
+testRunner\Runners.class
+testCases\LogOutPageTest.class
+testCases\OrderPageTest.class
+testCases\TeamsPageTest.class
+testCases\DashboardPageTest.class
+testCases\ExtentReportsTest.class
+testCases\AuditPageTest.class
+testCases\LoginPageTest.class
+testCases\MerchantsPageTest.class
+testCases\BalanceStatementPageTest.class

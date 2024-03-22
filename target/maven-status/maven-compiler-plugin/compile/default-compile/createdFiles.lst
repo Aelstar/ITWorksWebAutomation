@@ -1,0 +1,14 @@
+testPages\DashboardPage.class
+testUtils\SnapTest.class
+testPages\AuditPage.class
+testPages\MerchantsPage.class
+listeners\WebListener.class
+testUtils\ExtractExcel.class
+testPages\LoginPage.class
+testPages\BalancePage.class
+testBasis\SetUpMain.class
+testPages\TeamsPage.class
+testPages\LogOutPage.class
+testPages\BalanceStatementPage.class
+listeners\ITListener.class
+testPages\OrderPage.class
